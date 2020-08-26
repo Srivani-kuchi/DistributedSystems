@@ -1,0 +1,9 @@
+# four global parameters (see above)
+# NoOfnodes InterRequestDelay csExecutionTime NoOfRequests
+5 30 60 100
+
+0 dc01 9091   # nodeID hostName listenPort
+1 dc02 9092
+2 dc03 9093
+3 dc04 9094
+4 dc05 9095
